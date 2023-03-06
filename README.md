@@ -1,17 +1,17 @@
-# Devcamp JS Footer
+# Copyright Message Footer
 
 > This should be used in the following manner:
 
 Install with the command:
 
 ```bash
-npm install --save devcamp-js-footer
+npm install --save copr-msg-footer
 ```
 
 Add to a JavaScript Project with the following code:
 
 ```javascript
-import { footer } from "devcamp-js-footer";
+import { footer } from "copr-msg-footer";
 
 footer('Some name');
 ```
